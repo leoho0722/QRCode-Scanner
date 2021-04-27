@@ -1,5 +1,4 @@
 # QRCode-Scanner
-# QRCodeScanner
 iOS App 開發練習 − QRCode Scanner
 
 開發語言：Swift 5
